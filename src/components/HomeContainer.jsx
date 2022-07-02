@@ -29,9 +29,9 @@ const HomeContainer = () => {
           </span>
         </p>
         <p className="text-base text-textColor text-center md:text-left md:w-[80%]">
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis ex qui
-          est ad corporis distinctio accusamus nemo et? Rem nesciunt nostrum
-          facilis eius nobis autem architecto veniam dolorem voluptate quo?
+         Welcome to Food Chef. <br />
+         The Food Chef is a modern company which not only creates delicious food in the fine dining world, but also deliver food at your doorstep. <br />
+         Let us provide the service for you to enjoy.
         </p>
 
         <button
